@@ -1,0 +1,3 @@
+channels[daphne]
+python-dotenv
+django-rest-framework
